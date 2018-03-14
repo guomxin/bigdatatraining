@@ -1,0 +1,46 @@
+*.class
+*.log
+*.zip
+*.bak
+
+# sbt specific
+.cache
+.history
+.lib/
+dist/*
+target/
+lib_managed/
+src_managed/
+project/boot/
+project/plugins/project/
+
+# Scala-IDE specific
+.scala_dependencies
+.worksheet
+
+# eclipse specific
+.classpath
+.project
+.settings/
+.cache-main
+.cache-tests
+bin/
+libs/
+.metadata/
+
+
+# octave
+octave-workspace
+
+# coursera
+token.mat
+
+# webdev
+.tmp/
+bower_components/
+node_modules/
+dist/
+
+# python
+.ipynb_checkpoints/
+*.pyc
